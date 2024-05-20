@@ -1,33 +1,91 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on taip toliau xx</title>
+    <title>Posts on Hello Friend</title>
     
     
     
     <link>https://Elinain.github.io/posts/</link>
-    <description>Recent content in Posts on taip toliau xx</description>
+    <description>Recent content in Posts on Hello Friend</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 21 Apr 2024 20:42:27 +0300</lastBuildDate>
+    <language>en</language>
+    <lastBuildDate>Sun, 19 May 2024 13:28:04 +0300</lastBuildDate>
     
 	<atom:link href="https://Elinain.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Menulio Kalendorius</title>
+      <title>Demonas</title>
+      <link>https://Elinain.github.io/posts/demonas/</link>
+      <pubDate>Sun, 19 May 2024 13:28:04 +0300</pubDate>
+      
+      <guid>https://Elinain.github.io/posts/demonas/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          bl;a bla bla
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>Drakonas</title>
+      <link>https://Elinain.github.io/posts/drakonas/</link>
+      <pubDate>Sun, 19 May 2024 13:06:48 +0300</pubDate>
+      
+      <guid>https://Elinain.github.io/posts/drakonas/</guid>
+      <description>
+        
+          &lt;img src=&#34;https://Elinain.github.io/img/moon.jpeg&#34;/&gt;
+          
+        
+        
+        
+          I wanna hide the truth I wanna shelter you But with the beast inside There&amp;rsquo;s nowhere we can hide No matter what we breed We still are made of greed This is my kingdom come This is my kingdom come
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>Menulio Kalendorius2 </title>
       <link>https://Elinain.github.io/posts/menulio-kalendorius/</link>
       <pubDate>Sun, 21 Apr 2024 20:42:27 +0300</pubDate>
       
       <guid>https://Elinain.github.io/posts/menulio-kalendorius/</guid>
       <description>
         
-          &lt;img src=&#34;https://vilniustech.lt/files/3843/192/9/11_0/VT_pilnas_BlueTransparent.png&#34;/&gt;
+          &lt;img src=&#34;https://Elinain.github.io/img/moon.jpeg&#34;/&gt;
           
         
         
         
           Čia kelias į dejonių viešpatystę, Čia kelias ten, kur skausmas ir tamsa, Čia kelias į šešėlių karalystę. Čionai įžengęs viltį mesk į šalį.
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>Hello Friend</title>
+      <link>https://Elinain.github.io/posts/hello/</link>
+      <pubDate>Wed, 17 Sep 1986 00:00:00 +0000</pubDate>
+      
+      <guid>https://Elinain.github.io/posts/hello/</guid>
+      <description>
+        
+          &lt;img src=&#34;https://Elinain.github.io/img/hello.jpg&#34;/&gt;
+          
+        
+        
+        
+          &#34;Hello, friend?&#34; That&#39;s lame. Maybe I should give you a name?
           
         
         </description>

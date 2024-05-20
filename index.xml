@@ -1,33 +1,172 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>taip toliau xx</title>
+    <title>Hello Friend</title>
     
     
     
     <link>https://Elinain.github.io/</link>
-    <description>Recent content on taip toliau xx</description>
+    <description>Recent content on Hello Friend</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 21 Apr 2024 20:42:27 +0300</lastBuildDate>
+    <language>en</language>
+    <lastBuildDate>Sun, 19 May 2024 13:28:04 +0300</lastBuildDate>
     
 	<atom:link href="https://Elinain.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Menulio Kalendorius</title>
+      <title>Demonas</title>
+      <link>https://Elinain.github.io/posts/demonas/</link>
+      <pubDate>Sun, 19 May 2024 13:28:04 +0300</pubDate>
+      
+      <guid>https://Elinain.github.io/posts/demonas/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          bl;a bla bla
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>Drakonas</title>
+      <link>https://Elinain.github.io/posts/drakonas/</link>
+      <pubDate>Sun, 19 May 2024 13:06:48 +0300</pubDate>
+      
+      <guid>https://Elinain.github.io/posts/drakonas/</guid>
+      <description>
+        
+          &lt;img src=&#34;https://Elinain.github.io/img/moon.jpeg&#34;/&gt;
+          
+        
+        
+        
+          I wanna hide the truth I wanna shelter you But with the beast inside There&amp;rsquo;s nowhere we can hide No matter what we breed We still are made of greed This is my kingdom come This is my kingdom come
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>Elina</title>
+      <link>https://Elinain.github.io/elina/</link>
+      <pubDate>Wed, 15 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://Elinain.github.io/elina/</guid>
+      <description>
+        
+          &lt;img src=&#34;https://Elinain.github.io/img/moon.jpeg&#34;/&gt;
+          
+        
+        
+        
+          bla bla bla#
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>Menulio Kalendorius2 </title>
       <link>https://Elinain.github.io/posts/menulio-kalendorius/</link>
       <pubDate>Sun, 21 Apr 2024 20:42:27 +0300</pubDate>
       
       <guid>https://Elinain.github.io/posts/menulio-kalendorius/</guid>
       <description>
         
-          &lt;img src=&#34;https://vilniustech.lt/files/3843/192/9/11_0/VT_pilnas_BlueTransparent.png&#34;/&gt;
+          &lt;img src=&#34;https://Elinain.github.io/img/moon.jpeg&#34;/&gt;
           
         
         
         
           Čia kelias į dejonių viešpatystę, Čia kelias ten, kur skausmas ir tamsa, Čia kelias į šešėlių karalystę. Čionai įžengęs viltį mesk į šalį.
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://Elinain.github.io/about/</link>
+      <pubDate>Fri, 25 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://Elinain.github.io/about/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          Hi there#My name is Radek and I&amp;rsquo;m the author of this theme. I made it to help you present your ideas easier.
+We all know how hard is to start something on the web, especially these days. You need to prepare a bunch of stuff, configure them and when that’s done — create the content.
+This theme is pretty basic and covers all of the essentials. All you have to do is start typing!
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>Showcase</title>
+      <link>https://Elinain.github.io/showcase/</link>
+      <pubDate>Fri, 18 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://Elinain.github.io/showcase/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          Header 2#Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec interdum metus. Aenean rutrum ligula sodales ex auctor, sed tempus dui mollis. Curabitur ipsum dui, aliquet nec commodo at, tristique eget ante. Donec quis dolor nec nunc mollis interdum vel in purus. Sed vitae leo scelerisque, sollicitudin elit sed, congue ante. In augue nisl, vestibulum commodo est a, tristique porttitor est. Proin laoreet iaculis ornare. Nullam ut neque quam.
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>Hello Friend</title>
+      <link>https://Elinain.github.io/posts/hello/</link>
+      <pubDate>Wed, 17 Sep 1986 00:00:00 +0000</pubDate>
+      
+      <guid>https://Elinain.github.io/posts/hello/</guid>
+      <description>
+        
+          &lt;img src=&#34;https://Elinain.github.io/img/hello.jpg&#34;/&gt;
+          
+        
+        
+        
+          &#34;Hello, friend?&#34; That&#39;s lame. Maybe I should give you a name?
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>Archive</title>
+      <link>https://Elinain.github.io/archive/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://Elinain.github.io/archive/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          
           
         
         </description>
